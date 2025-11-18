@@ -12,7 +12,7 @@ PairCreated(indexed address,indexed address,address,uint256)  【Uniswap v2】
 创建  TokenPair @entity
 
 ```
-get token0 and token1
+get or create token0、token1
 --> loadOrCreateToken(token0 and token1)
 --> 
 
